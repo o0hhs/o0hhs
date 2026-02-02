@@ -10,4 +10,5 @@
 <img height="32" width="32" src="https://cdn.simpleicons.org/html5/d9d9d9"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/css/d9d9d9"/>
 <img height="32" width="32" src="https://cdn.simpleicons.org/javascript/d9d9d9"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/d9d9d9"/>
 </div>
